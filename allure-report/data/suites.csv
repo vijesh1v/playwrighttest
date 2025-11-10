@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11503","Login to website","chromium","Thu Mar 13 16:59:14 IST 2025","passed","Thu Mar 13 16:59:25 IST 2025","","login.spec.js","",""
